@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dog</folder>
+	<filename>TELEMMGLPICT000201041487_trans++yHkW1tjlXRkd134k7i5fGZY5X5qR2eo55SznYb88YCg.jpeg</filename>
+	<path>C:\Users\user\Desktop\Dog\TELEMMGLPICT000201041487_trans++yHkW1tjlXRkd134k7i5fGZY5X5qR2eo55SznYb88YCg.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>81</ymin>
+			<xmax>549</xmax>
+			<ymax>595</ymax>
+		</bndbox>
+	</object>
+</annotation>

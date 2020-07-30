@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dog</folder>
+	<filename>adorable-white-pomeranian-puppy-spitz-921029690-5c8be25d46e0fb000172effe.jpg</filename>
+	<path>C:\Users\user\Desktop\Dog\adorable-white-pomeranian-puppy-spitz-921029690-5c8be25d46e0fb000172effe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>130</ymin>
+			<xmax>574</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

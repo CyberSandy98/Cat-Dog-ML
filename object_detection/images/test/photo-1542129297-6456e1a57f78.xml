@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cat</folder>
+	<filename>photo-1542129297-6456e1a57f78.jpeg</filename>
+	<path>C:\Users\user\Desktop\Cat\photo-1542129297-6456e1a57f78.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>4</ymin>
+			<xmax>523</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>
